@@ -27,7 +27,7 @@ const About = () => (
         like it's really real, you can feel what you feel in this metaverse
         world, because this is really the{' '}
         <span className="font-extrabold text-white">
-          madness of the metaverse
+          madness of the metaverse 
         </span>{' '}
         of today, using only{' '}
         <span className="font-extrabold text-white">VR</span> devices you can
