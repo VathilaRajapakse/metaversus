@@ -33,7 +33,7 @@ const Explore = () => {
               {...world}
               index={index}
               active={active}
-              handleClick={setActive}
+             handleClick={setActive}
             />
           ))}
         </div>
